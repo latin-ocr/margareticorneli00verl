@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./margareticorneli00verl_0073.png"; bbox 0 0 2168 2984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 121 86 2088 2854">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 121 86 2088 2854">
+     <span class='ocr_line' id='line_1_1' title="bbox 121 86 2088 2854; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 121 86 2088 2854; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 142 2855 1990 2904">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 142 2855 1990 2904">
+     <span class='ocr_line' id='line_1_2' title="bbox 142 2855 1990 2904; baseline 0.002 -20"><span class='ocrx_word' id='word_1_2' title='bbox 142 2857 185 2884; x_wconf 73' lang='grc' dir='ltr'><em>,ΊΙ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 197 2855 415 2885; x_wconf 58' lang='grc' dir='ltr'><em>ίῖἶῖτῖιϊεηίιθι</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1673 2860 1829 2904; x_wconf 35' lang='lat' dir='ltr'><em>[Abyd-⁷⁷1</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1852 2862 1875 2890; x_wconf 71' lang='lat' dir='ltr'><em>d</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1888 2860 1990 2902; x_wconf 57' lang='lat' dir='ltr'><em>hiulce</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
